@@ -1,0 +1,4 @@
+selenium
+requests
+2captcha-python
+pillow
